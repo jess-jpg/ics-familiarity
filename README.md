@@ -30,6 +30,14 @@ for "Getting Familiar With Github" ics4u practice assignment
 
 **Collaborative Repository**
 
+![image](https://user-images.githubusercontent.com/53158247/164136081-f69b7e9c-1bbc-4dcc-bf2e-981483731389.png)
+
 
 In the submitted repository, you should have one folder for each person, with their artifacts inside.
+- created "jessica" folder in the main branch
+- created file called "me"
+
+![image](https://user-images.githubusercontent.com/53158247/164135849-99f64d6f-f4f8-4be3-a33f-f7469c5c01f9.png)
+![image](https://user-images.githubusercontent.com/53158247/164135956-e62c2348-daff-4f1a-ba51-86cd980b727e.png)
+
 
